@@ -15,6 +15,7 @@
 		43D2DA8525E0956300B6AEA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43D2DA8325E0956300B6AEA6 /* LaunchScreen.storyboard */; };
 		43D2DA9025E0956400B6AEA6 /* Git_Practice_RWenderlichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D2DA8F25E0956400B6AEA6 /* Git_Practice_RWenderlichTests.swift */; };
 		43D2DA9B25E0956400B6AEA6 /* Git_Practice_RWenderlichUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D2DA9A25E0956400B6AEA6 /* Git_Practice_RWenderlichUITests.swift */; };
+		43D2DAAC25E09DB200B6AEA6 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D2DAAB25E09DB200B6AEA6 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		43D2DA9625E0956400B6AEA6 /* Git_Practice_RWenderlichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Git_Practice_RWenderlichUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D2DA9A25E0956400B6AEA6 /* Git_Practice_RWenderlichUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_Practice_RWenderlichUITests.swift; sourceTree = "<group>"; };
 		43D2DA9C25E0956400B6AEA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43D2DAAB25E09DB200B6AEA6 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				43D2DA7825E0955E00B6AEA6 /* AppDelegate.swift */,
 				43D2DA7A25E0955E00B6AEA6 /* SceneDelegate.swift */,
 				43D2DA7C25E0955E00B6AEA6 /* ViewController.swift */,
+				43D2DAAB25E09DB200B6AEA6 /* MapForItinerary.swift */,
 				43D2DA7E25E0955E00B6AEA6 /* Main.storyboard */,
 				43D2DA8125E0956300B6AEA6 /* Assets.xcassets */,
 				43D2DA8325E0956300B6AEA6 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43D2DAAC25E09DB200B6AEA6 /* MapForItinerary.swift in Sources */,
 				43D2DA7D25E0955E00B6AEA6 /* ViewController.swift in Sources */,
 				43D2DA7925E0955E00B6AEA6 /* AppDelegate.swift in Sources */,
 				43D2DA7B25E0955E00B6AEA6 /* SceneDelegate.swift in Sources */,
